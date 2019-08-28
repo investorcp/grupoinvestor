@@ -1,0 +1,54 @@
+header {
+    background: transparent url(../imgs/fundo-topo.jpg) 0 0 no-repeat;
+    background-size: cover;
+    height: 381px;
+}
+
+h2.investor-logo {
+    background: url(../imgs/investor-logo.png) 50% 100% no-repeat;
+    text-indent: -9999px;
+    height: 100%;
+	width: 380px;
+    background-size: contain;
+}
+
+h2.vangardi-logo {
+    background: url(../imgs/vangardi-logo.png) 50% 100% no-repeat;
+    text-indent: -9999px;
+    height: 100%;
+	width: 380px;
+    background-size: contain;
+}
+
+span.clique {
+    color: #fff;
+    font-style: italic;
+	height: 40px;
+}
+
+p {
+	color: #878787;	
+}
+
+.cor-investor {
+    color: #79b442;
+}
+
+.servicos {
+    background-color: #f5f5f5;
+}
+
+footer.row {
+    background-color: #13284f;
+    height: 60px;
+    padding: 10px;
+}
+
+footer h5 {
+    background: url(../imgs/investor-logo.png) 50% 0 no-repeat;
+    text-indent: -9999px;
+    display: block;
+    background-size: contain;
+    text-align: center;
+    width: 100%;
+}
